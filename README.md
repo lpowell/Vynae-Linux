@@ -3,7 +3,7 @@ Vynae but in linux! Work in progress, probably won't be a full port. Needed to m
 
 Connection filter not in yet.
 
-Usage: ./PythonProcessTest.py <param> [option]
+    Usage: ./PythonProcessTest.py <param> [option]
 	-h, --help
 		Displays this menu
 	-n, --name
